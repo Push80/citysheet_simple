@@ -167,7 +167,7 @@ export default function App() {
               controller: {
                 dragMode: 'pan' // Invert controls: regular drag pans, Ctrl+drag rotates
               },
-              views: new OrbitView({ far: 100000, near: 0.10, orthographic: true}),
+              views: new OrbitView({ far: 100000, near: 0.10, orthographic: false}),
               layers: [row_layer, col_layer, text_layer, cell_background_layer, tower_layer, arc_layer, trips_layer],
               getTooltip: getTooltip
             });
