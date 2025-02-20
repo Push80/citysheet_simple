@@ -159,21 +159,15 @@ export default function App() {
 
             DECK = new Deck({
               initialViewState: {
-                target: [0, 0, 0],  // Center the view on (0,0) in Cartesian space
-                zoom: -0.5,
-                rotationX: 45,
-                rotationOrbit: -45,
-              },/*
-              initialViewState: {
-                target: [2700, -4500, 0],  // Center the view on (0,0) in Cartesian space
-                zoom: -0.5,
-                rotationX: 45,
-                rotationOrbit: -45,
-              },*/
+                target: [450, -100, 0],  // Center the view on (0,0) in Cartesian space
+                zoom: -0.05,
+                rotationX: 90,
+                rotationOrbit: 0,
+              },
               controller: {
                 dragMode: 'pan' // Invert controls: regular drag pans, Ctrl+drag rotates
               },
-              views: new OrbitView({ far: 100000, near: 0.10, orthographic: false}),
+              views: new OrbitView({ far: 100000, near: 0.10, orthographic: true}),
               layers: [row_layer, col_layer, text_layer, cell_background_layer, tower_layer, arc_layer, trips_layer],
               getTooltip: getTooltip
             });
@@ -231,7 +225,7 @@ export default function App() {
 
       //background: true,
       billboard: false,
-      getPosition: (d: Cell) => [d.coord[0]+2, d.coord[1]-2, (d.rank * 20)  + 2],
+      getPosition: (d: Cell) => [d.coord[0]+2, d.coord[1]-2, (d.rank * 20)  + 3.5],
       getText: (d: Cell) => d.value,
       /*
       getBackgroundColor: (d: Cell) => {
@@ -267,7 +261,7 @@ export default function App() {
       filled: true,
       getPolygon: (d: Cell) => {
         var top_left, top_right, bottom_left, bottom_right
-        const elevation = d.rank * 20
+        const elevation = d.rank * 20 + 0.5
         const buffer = 0.5
         top_left = [d.coord[0] + buffer, d.coord[1] - buffer, elevation]
         top_right = [d.coord[0] + d.width - buffer, d.coord[1] - buffer, elevation]
