@@ -1,0 +1,2368 @@
+[
+    {
+        "sheet0": {
+            "rows": [
+                {
+                    "path": [
+                        [
+                            0,
+                            0
+                        ],
+                        [
+                            877.5,
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            0,
+                            -15
+                        ],
+                        [
+                            877.5,
+                            -15
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            0,
+                            -30
+                        ],
+                        [
+                            877.5,
+                            -30
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            0,
+                            -45
+                        ],
+                        [
+                            877.5,
+                            -45
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            0,
+                            -60
+                        ],
+                        [
+                            877.5,
+                            -60
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            0,
+                            -75
+                        ],
+                        [
+                            877.5,
+                            -75
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            0,
+                            -90
+                        ],
+                        [
+                            877.5,
+                            -90
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            0,
+                            -105
+                        ],
+                        [
+                            877.5,
+                            -105
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            0,
+                            -120
+                        ],
+                        [
+                            877.5,
+                            -120
+                        ]
+                    ]
+                }
+            ],
+            "cols": [
+                {
+                    "path": [
+                        [
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            -120
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            97.5,
+                            0
+                        ],
+                        [
+                            97.5,
+                            -120
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            195.0,
+                            0
+                        ],
+                        [
+                            195.0,
+                            -120
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            292.5,
+                            0
+                        ],
+                        [
+                            292.5,
+                            -120
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            390.0,
+                            0
+                        ],
+                        [
+                            390.0,
+                            -120
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            487.5,
+                            0
+                        ],
+                        [
+                            487.5,
+                            -120
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            585.0,
+                            0
+                        ],
+                        [
+                            585.0,
+                            -120
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            682.5,
+                            0
+                        ],
+                        [
+                            682.5,
+                            -120
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            780.0,
+                            0
+                        ],
+                        [
+                            780.0,
+                            -120
+                        ]
+                    ]
+                },
+                {
+                    "path": [
+                        [
+                            877.5,
+                            0
+                        ],
+                        [
+                            877.5,
+                            -120
+                        ]
+                    ]
+                }
+            ],
+            "cells": [
+                {
+                    "name": "Sheet0!A1",
+                    "coord": [
+                        0,
+                        0
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!B1",
+                    "coord": [
+                        97.5,
+                        0
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "Revenue",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!C1",
+                    "coord": [
+                        195.0,
+                        0
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "Expenses",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!D1",
+                    "coord": [
+                        292.5,
+                        0
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "Tax",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!E1",
+                    "coord": [
+                        390.0,
+                        0
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "Profit",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!F1",
+                    "coord": [
+                        487.5,
+                        0
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!G1",
+                    "coord": [
+                        585.0,
+                        0
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!H1",
+                    "coord": [
+                        682.5,
+                        0
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!I1",
+                    "coord": [
+                        780.0,
+                        0
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "Tax Rate",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!A2",
+                    "coord": [
+                        0,
+                        -15
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "Mon",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!B2",
+                    "coord": [
+                        97.5,
+                        -15
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "100.0",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [
+                        "Sheet0!D2",
+                        "Sheet0!E2"
+                    ],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!C2",
+                    "coord": [
+                        195.0,
+                        -15
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "50.0",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [
+                        "Sheet0!E2"
+                    ],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!D2",
+                    "coord": [
+                        292.5,
+                        -15
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "10",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": "=B2*I2",
+                    "formula_type": 0,
+                    "uses": [
+                        "Sheet0!B2",
+                        "Sheet0!I2"
+                    ],
+                    "used_by": [
+                        "Sheet0!E2"
+                    ],
+                    "weight": 2,
+                    "rank": 1
+                },
+                {
+                    "name": "Sheet0!E2",
+                    "coord": [
+                        390.0,
+                        -15
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "40",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": "=B2-C2-D2",
+                    "formula_type": 1,
+                    "uses": [
+                        "Sheet0!B2",
+                        "Sheet0!C2",
+                        "Sheet0!D2"
+                    ],
+                    "used_by": [
+                        "Sheet0!E8"
+                    ],
+                    "weight": 5,
+                    "rank": 2
+                },
+                {
+                    "name": "Sheet0!F2",
+                    "coord": [
+                        487.5,
+                        -15
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!G2",
+                    "coord": [
+                        585.0,
+                        -15
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!H2",
+                    "coord": [
+                        682.5,
+                        -15
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!I2",
+                    "coord": [
+                        780.0,
+                        -15
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "0.1",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [
+                        "Sheet0!D2",
+                        "Sheet0!D3",
+                        "Sheet0!D4",
+                        "Sheet0!D5",
+                        "Sheet0!D6",
+                        "Sheet0!D7"
+                    ],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!A3",
+                    "coord": [
+                        0,
+                        -30
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "Tues",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!B3",
+                    "coord": [
+                        97.5,
+                        -30
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "120.0",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [
+                        "Sheet0!D3",
+                        "Sheet0!E3"
+                    ],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!C3",
+                    "coord": [
+                        195.0,
+                        -30
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "50.0",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [
+                        "Sheet0!E3"
+                    ],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!D3",
+                    "coord": [
+                        292.5,
+                        -30
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "12",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": "=B3*I2",
+                    "formula_type": 0,
+                    "uses": [
+                        "Sheet0!B3",
+                        "Sheet0!I2"
+                    ],
+                    "used_by": [
+                        "Sheet0!E3"
+                    ],
+                    "weight": 2,
+                    "rank": 1
+                },
+                {
+                    "name": "Sheet0!E3",
+                    "coord": [
+                        390.0,
+                        -30
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "58",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": "=B3-C3-D3",
+                    "formula_type": 1,
+                    "uses": [
+                        "Sheet0!B3",
+                        "Sheet0!C3",
+                        "Sheet0!D3"
+                    ],
+                    "used_by": [
+                        "Sheet0!E8"
+                    ],
+                    "weight": 5,
+                    "rank": 2
+                },
+                {
+                    "name": "Sheet0!F3",
+                    "coord": [
+                        487.5,
+                        -30
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!G3",
+                    "coord": [
+                        585.0,
+                        -30
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!H3",
+                    "coord": [
+                        682.5,
+                        -30
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!I3",
+                    "coord": [
+                        780.0,
+                        -30
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!A4",
+                    "coord": [
+                        0,
+                        -45
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "Wed",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!B4",
+                    "coord": [
+                        97.5,
+                        -45
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "95.0",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [
+                        "Sheet0!D4",
+                        "Sheet0!E4"
+                    ],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!C4",
+                    "coord": [
+                        195.0,
+                        -45
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "50.0",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [
+                        "Sheet0!E4"
+                    ],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!D4",
+                    "coord": [
+                        292.5,
+                        -45
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "9.5",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": "=B4*I2",
+                    "formula_type": 0,
+                    "uses": [
+                        "Sheet0!B4",
+                        "Sheet0!I2"
+                    ],
+                    "used_by": [
+                        "Sheet0!E4"
+                    ],
+                    "weight": 2,
+                    "rank": 1
+                },
+                {
+                    "name": "Sheet0!E4",
+                    "coord": [
+                        390.0,
+                        -45
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "35.5",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": "=B4-C4-D4",
+                    "formula_type": 1,
+                    "uses": [
+                        "Sheet0!B4",
+                        "Sheet0!C4",
+                        "Sheet0!D4"
+                    ],
+                    "used_by": [
+                        "Sheet0!E8"
+                    ],
+                    "weight": 5,
+                    "rank": 2
+                },
+                {
+                    "name": "Sheet0!F4",
+                    "coord": [
+                        487.5,
+                        -45
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!G4",
+                    "coord": [
+                        585.0,
+                        -45
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!H4",
+                    "coord": [
+                        682.5,
+                        -45
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!I4",
+                    "coord": [
+                        780.0,
+                        -45
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!A5",
+                    "coord": [
+                        0,
+                        -60
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "Thurs",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!B5",
+                    "coord": [
+                        97.5,
+                        -60
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "100.0",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [
+                        "Sheet0!D5",
+                        "Sheet0!E5"
+                    ],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!C5",
+                    "coord": [
+                        195.0,
+                        -60
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "50.0",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [
+                        "Sheet0!E5"
+                    ],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!D5",
+                    "coord": [
+                        292.5,
+                        -60
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "10",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": "=B5*I2",
+                    "formula_type": 0,
+                    "uses": [
+                        "Sheet0!B5",
+                        "Sheet0!I2"
+                    ],
+                    "used_by": [
+                        "Sheet0!E5"
+                    ],
+                    "weight": 2,
+                    "rank": 1
+                },
+                {
+                    "name": "Sheet0!E5",
+                    "coord": [
+                        390.0,
+                        -60
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "40",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": "=B5-C5-D5",
+                    "formula_type": 1,
+                    "uses": [
+                        "Sheet0!B5",
+                        "Sheet0!C5",
+                        "Sheet0!D5"
+                    ],
+                    "used_by": [
+                        "Sheet0!E8"
+                    ],
+                    "weight": 5,
+                    "rank": 2
+                },
+                {
+                    "name": "Sheet0!F5",
+                    "coord": [
+                        487.5,
+                        -60
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!G5",
+                    "coord": [
+                        585.0,
+                        -60
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!H5",
+                    "coord": [
+                        682.5,
+                        -60
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!I5",
+                    "coord": [
+                        780.0,
+                        -60
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!A6",
+                    "coord": [
+                        0,
+                        -75
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "Fri",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!B6",
+                    "coord": [
+                        97.5,
+                        -75
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "140.0",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [
+                        "Sheet0!D6",
+                        "Sheet0!E6"
+                    ],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!C6",
+                    "coord": [
+                        195.0,
+                        -75
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "50.0",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [
+                        "Sheet0!E6"
+                    ],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!D6",
+                    "coord": [
+                        292.5,
+                        -75
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "14",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": "=B6*I2",
+                    "formula_type": 0,
+                    "uses": [
+                        "Sheet0!B6",
+                        "Sheet0!I2"
+                    ],
+                    "used_by": [
+                        "Sheet0!E6"
+                    ],
+                    "weight": 2,
+                    "rank": 1
+                },
+                {
+                    "name": "Sheet0!E6",
+                    "coord": [
+                        390.0,
+                        -75
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "76",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": "=B6-C6-D6",
+                    "formula_type": 1,
+                    "uses": [
+                        "Sheet0!B6",
+                        "Sheet0!C6",
+                        "Sheet0!D6"
+                    ],
+                    "used_by": [
+                        "Sheet0!E8"
+                    ],
+                    "weight": 5,
+                    "rank": 2
+                },
+                {
+                    "name": "Sheet0!F6",
+                    "coord": [
+                        487.5,
+                        -75
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!G6",
+                    "coord": [
+                        585.0,
+                        -75
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!H6",
+                    "coord": [
+                        682.5,
+                        -75
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!I6",
+                    "coord": [
+                        780.0,
+                        -75
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!A7",
+                    "coord": [
+                        0,
+                        -90
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "Sat",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!B7",
+                    "coord": [
+                        97.5,
+                        -90
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "125.0",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [
+                        "Sheet0!D7",
+                        "Sheet0!E7"
+                    ],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!C7",
+                    "coord": [
+                        195.0,
+                        -90
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "50.0",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [
+                        "Sheet0!E7"
+                    ],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!D7",
+                    "coord": [
+                        292.5,
+                        -90
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "12.5",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": "=B7*I2",
+                    "formula_type": 0,
+                    "uses": [
+                        "Sheet0!B7",
+                        "Sheet0!I2"
+                    ],
+                    "used_by": [
+                        "Sheet0!E7"
+                    ],
+                    "weight": 2,
+                    "rank": 1
+                },
+                {
+                    "name": "Sheet0!E7",
+                    "coord": [
+                        390.0,
+                        -90
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "62.5",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": "=B7-C7-D7",
+                    "formula_type": 1,
+                    "uses": [
+                        "Sheet0!B7",
+                        "Sheet0!C7",
+                        "Sheet0!D7"
+                    ],
+                    "used_by": [
+                        "Sheet0!E8"
+                    ],
+                    "weight": 5,
+                    "rank": 2
+                },
+                {
+                    "name": "Sheet0!F7",
+                    "coord": [
+                        487.5,
+                        -90
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!G7",
+                    "coord": [
+                        585.0,
+                        -90
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!H7",
+                    "coord": [
+                        682.5,
+                        -90
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!I7",
+                    "coord": [
+                        780.0,
+                        -90
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!A8",
+                    "coord": [
+                        0,
+                        -105
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "Weekly Profit:",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!B8",
+                    "coord": [
+                        97.5,
+                        -105
+                    ],
+                    "height": 15,
+                    "width": 0,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!C8",
+                    "coord": [
+                        97.5,
+                        -105
+                    ],
+                    "height": 15,
+                    "width": 0,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!D8",
+                    "coord": [
+                        97.5,
+                        -105
+                    ],
+                    "height": 15,
+                    "width": 0,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!E8",
+                    "coord": [
+                        97.5,
+                        -105
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "312",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": "=SUM(E2:E7)",
+                    "formula_type": 2,
+                    "uses": [
+                        "Sheet0!E2",
+                        "Sheet0!E3",
+                        "Sheet0!E4",
+                        "Sheet0!E5",
+                        "Sheet0!E6",
+                        "Sheet0!E7"
+                    ],
+                    "used_by": [],
+                    "weight": 36,
+                    "rank": 3
+                },
+                {
+                    "name": "Sheet0!F8",
+                    "coord": [
+                        195.0,
+                        -105
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!G8",
+                    "coord": [
+                        292.5,
+                        -105
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!H8",
+                    "coord": [
+                        390.0,
+                        -105
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                },
+                {
+                    "name": "Sheet0!I8",
+                    "coord": [
+                        487.5,
+                        -105
+                    ],
+                    "height": 15,
+                    "width": 97.5,
+                    "value": "",
+                    "bg_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "text_color": [
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    "formula": null,
+                    "formula_type": null,
+                    "uses": [],
+                    "used_by": [],
+                    "weight": 0,
+                    "rank": 0
+                }
+            ],
+            "total_width": 877.5,
+            "total_height": -120
+        }
+    }
+]
