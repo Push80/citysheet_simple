@@ -225,7 +225,7 @@ export default function App() {
 
       //background: true,
       billboard: false,
-      getPosition: (d: Cell) => [d.coord[0]+2, d.coord[1]-2, (d.rank * 20)  + 3.5],
+      getPosition: (d: Cell) => [d.coord[0]+2, d.coord[1]-2, (d.rank * 20)  + 4],
       getText: (d: Cell) => d.value,
       /*
       getBackgroundColor: (d: Cell) => {
@@ -261,7 +261,7 @@ export default function App() {
       filled: true,
       getPolygon: (d: Cell) => {
         var top_left, top_right, bottom_left, bottom_right
-        const elevation = d.rank * 20 + 0.5
+        const elevation = d.rank * 20 + 1
         const buffer = 0.5
         top_left = [d.coord[0] + buffer, d.coord[1] - buffer, elevation]
         top_right = [d.coord[0] + d.width - buffer, d.coord[1] - buffer, elevation]
